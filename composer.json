@@ -1,0 +1,19 @@
+{
+    "name": "soumyarauth/hellocompose",
+    "description": "This is my first comopser package",
+    "type": "clibrary",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Soumyarauth\\Hellocompose\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "soumyaRauth",
+            "email": "shoummorauth@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
